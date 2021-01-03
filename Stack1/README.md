@@ -4,7 +4,7 @@
 
 ![Screenshot 2021-01-03 at 12 14 28 AM](https://user-images.githubusercontent.com/32232422/103469129-a6061300-4d15-11eb-9fc3-f1818aeafd0f.png)
 
-2. We can anything as input 
+2. We can put anything as input 
 
 ![Screenshot 2021-01-03 at 12 21 54 AM](https://user-images.githubusercontent.com/32232422/103469209-abb02880-4d16-11eb-931d-90095f868f0b.png)
 
