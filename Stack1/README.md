@@ -16,6 +16,6 @@
 - Try and error by giving input with different count
 - Review the rogram using reverse engineering tools like gdb(linux), hydra, ollydbg(win)
 
-5. First we gonna use try and error step. If we give 70 of 'X', we still overwrite the variable because the output is '0x58585858'. Then we try to give 65
+5. First we gonna use try and error step. If we give 70 of 'X', we still overwrite the variable because the output is '0x58585858'. Then we try to give 65, and its become 0x00000058, this means it should be 64. Now when we give 64 characters, it becomes 0x00000000. This means the limit is 64 characters.
 
 ![Screenshot 2021-01-03 at 10 14 34 AM](https://user-images.githubusercontent.com/32232422/103476334-7bde4080-4d69-11eb-8086-f0c6ea8ab472.png)
